@@ -2,30 +2,32 @@
 //  ViewController.m
 //  ZombieConga
 //
-//  Created by Nu on 3/30/14.
-//  Copyright (c) 2014 The Big Round Mud. All rights reserved.
+//  Created by Main Account on 8/28/13.
+//  Copyright (c) 2013 Razeware LLC. All rights reserved.
 //
 
 #import "ViewController.h"
-#import "MyScene.h"
+#import "MainMenuScene.h"
 
 @implementation ViewController
 
-- (void)viewDidLoad
+- (void)viewWillLayoutSubviews
 {
-    [super viewDidLoad];
+    [super viewWillLayoutSubviews];
 
     // Configure the view.
     SKView * skView = (SKView *)self.view;
-    skView.showsFPS = YES;
-    skView.showsNodeCount = YES;
-    
-    // Create and configure the scene.
-    SKScene * scene = [MyScene sceneWithSize:skView.bounds.size];
-    scene.scaleMode = SKSceneScaleModeAspectFill;
-    
-    // Present the scene.
-    [skView presentScene:scene];
+      if (!skView.scene) {
+      skView.showsFPS = YES;
+      skView.showsNodeCount = YES;
+      
+      // Create and configure the scene.
+      SKScene * scene = [MainMenuScene sceneWithSize:skView.bounds.size];
+      scene.scaleMode = SKSceneScaleModeAspectFill;
+      
+      // Present the scene.
+      [skView presentScene:scene];
+    }
 }
 
 - (BOOL)shouldAutorotate
@@ -46,6 +48,11 @@
 {
     [super didReceiveMemoryWarning];
     // Release any cached data, images, etc that aren't in use.
+}
+
+-(BOOL)prefersStatusBarHidden
+{
+  return YES;
 }
 
 @end

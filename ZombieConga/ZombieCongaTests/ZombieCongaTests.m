@@ -2,8 +2,8 @@
 //  ZombieCongaTests.m
 //  ZombieCongaTests
 //
-//  Created by Nu on 3/30/14.
-//  Copyright (c) 2014 The Big Round Mud. All rights reserved.
+//  Created by Main Account on 8/28/13.
+//  Copyright (c) 2013 Razeware LLC. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>

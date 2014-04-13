@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CEC997D0-2C3D-4520-AC60-DCFA05B56609</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ZombieConga</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C66B75D8-E4DC-4690-A5AA-CBD67F90B818</key>
+		<string>https://github.com/pitsanu/Lab_IosGameByTutorial.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ZombieConga/ZombieConga.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C66B75D8-E4DC-4690-A5AA-CBD67F90B818</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pitsanu/Lab_IosGameByTutorial.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C66B75D8-E4DC-4690-A5AA-CBD67F90B818</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C66B75D8-E4DC-4690-A5AA-CBD67F90B818</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Lab_IosGameByTutorial</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -3,7 +3,7 @@
 //  ZombieConga
 //
 
-//  Copyright (c) 2014 The Big Round Mud. All rights reserved.
+//  Copyright (c) 2013 Razeware LLC. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>58C7ACAD-7594-4C83-9361-B0FE7D89AFA5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ActionsCatalog</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ECD591AD-7DD3-43E7-ABCC-B148D4F352B8</key>
+		<string>https://github.com/pitsanu/Lab_IosGameByTutorial.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ActionsCatalog/ActionsCatalog.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ECD591AD-7DD3-43E7-ABCC-B148D4F352B8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pitsanu/Lab_IosGameByTutorial.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ECD591AD-7DD3-43E7-ABCC-B148D4F352B8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ECD591AD-7DD3-43E7-ABCC-B148D4F352B8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Lab_IosGameByTutorial</string>
+		</dict>
+	</array>
+</dict>
+</plist>
